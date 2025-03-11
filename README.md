@@ -1,13 +1,14 @@
-# sequence-2-sequence
 
-## 🔥 Deep Learning Model for Time Series Forecasting
+# 🔥 Sequence-to-Sequence Event Prediction
 
-🚀 **An advanced deep learning-based sequence-to-sequence (Seq2Seq) model for time series forecasting with k-fold cross-validation, hyperparameter tuning, and robust evaluation.**
+🚀 **An advanced deep learning-based sequence-to-sequence (Seq2Seq) model for event prediction with k-fold cross-validation, hyperparameter tuning, and robust evaluation.**
+
+🔗 **GitHub Repository:** [Sequence-to-Sequence Event Prediction](https://github.com/ShalinVachheta017/sequence-2-sequence-Event-Prediction/tree/main)
 
 ---
 
 ## 📌 **Project Overview**
-This repository implements a **sequence-to-sequence (Seq2Seq)** model using **LSTM** networks to predict time series sequences based on historical data. It supports:
+This repository implements a **sequence-to-sequence (Seq2Seq)** model using **LSTM** networks to predict event sequences based on historical data. It supports:
 - **K-Fold Cross-Validation** for model robustness.
 - **Hyperparameter tuning** to find the best configuration.
 - **Post-training analysis** to select the best model.
@@ -17,7 +18,7 @@ This repository implements a **sequence-to-sequence (Seq2Seq)** model using **LS
 
 ## 🏗 **Project Structure**
 ```
-📂 Project Root
+📂 Sequence-to-Sequence-Event-Prediction
 │── main.py              # Runs the full training pipeline
 │── train.py             # Training & validation functions
 │── post_analysis.py     # Selects the best model after training
@@ -36,8 +37,8 @@ This repository implements a **sequence-to-sequence (Seq2Seq)** model using **LS
 ## ⚙️ **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ShalinVachheta017/sequence-2-sequence-Event-Prediction.git
+cd sequence-2-sequence-Event-Prediction
 ```
 
 ### **2️⃣ Install Dependencies**
@@ -143,9 +144,3 @@ Feel free to **fork**, **open issues**, or submit **pull requests**! 😊
 ## 📝 **License**
 This project is open-source under the **MIT License**.
 
----
-
-🚀 **Happy Coding!**
-```
-
-This **README.md** file ensures clarity, provides an easy setup guide, and presents your repository professionally on GitHub. Let me know if you want any modifications! 🚀
