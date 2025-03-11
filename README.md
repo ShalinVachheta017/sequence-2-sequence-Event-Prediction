@@ -127,12 +127,7 @@ The decoder uses **teacher forcing** with a ratio of `0.3` during training.
 ---
 
 ## 🏆 **Results & Visualization**
-- Training loss curves, validation loss curves, and accuracy graphs are saved in `./outputs/`
-- Model performance metrics can be visualized using Python:
-```python
-from utils import plot_all_metrics
-plot_all_metrics(history, "outputs/")
-```
+- Training loss curves, validation loss curves, and accuracy  are saved in `./outputs/`
 
 ---
 
