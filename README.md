@@ -1,7 +1,7 @@
 
 # 🔥 Sequence-to-Sequence Event Prediction
 
-🚀 **An advanced deep learning-based sequence-to-sequence (Seq2Seq) model for event prediction with k-fold cross-validation, hyperparameter tuning, and robust evaluation.**
+🚀 **An advanced deep learning-based sequence-to-sequence (Seq2Seq) model for event prediction with cross-validation, hyperparameter tuning, and robust evaluation.**
 
 🔗 **GitHub Repository:** [Sequence-to-Sequence Event Prediction](https://github.com/ShalinVachheta017/sequence-2-sequence-Event-Prediction/tree/main)
 
