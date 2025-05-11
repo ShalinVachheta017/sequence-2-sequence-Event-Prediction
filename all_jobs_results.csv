@@ -1,0 +1,2 @@
+job_name,learning_rate,epochs,batch_size,hidden_size,num_layers,bidirectional,avg_train_loss,avg_val_loss,avg_mask2_coverage,avg_mask2_accuracy
+job_1,0.001,40,16,64,1,True,0.5834723916893102,0.5105476980859583,0.44362900435477026,0.5131202020025023

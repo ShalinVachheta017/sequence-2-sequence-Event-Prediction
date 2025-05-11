@@ -1,7 +1,7 @@
-torch>=1.9.0
-numpy>=1.19.2
-pandas>=1.1.3
-matplotlib>=3.3.2
-PyYAML>=5.3.1
-scikit-learn>=0.24.1
-logging  # Standard library, not necessary to include
+torch
+numpy
+pandas
+matplotlib
+PyYAML
+scikit-learn
+logging  

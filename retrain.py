@@ -122,9 +122,9 @@ def retrain_and_test(best_job, config_path, data_path, runs=5):
                 total_test_accuracy += accuracy
                 total_batches += 1
                 
-        total_seqs = len(test_loader.dataset) #introduced here
+        total_seqs = len(test_loader.dataset)
         avg_test_loss = total_test_loss / total_batches
-        avg_test_coverage = total_test_coverage / total_seqs # changed here
+        avg_test_coverage = total_test_coverage / total_seqs
         avg_test_accuracy = total_test_accuracy / total_seqs
 
         print(
